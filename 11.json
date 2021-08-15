@@ -1,0 +1,17 @@
+    {
+        "Author": "akira0245",
+        "Name": "Reset dummy enmity command",
+        "Description": "A text command for reset target striking dummy enmity.",
+        "InternalName": "Reset dummy enmity command",
+        "AssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/akira0245/Reset-dummy-enmity-command",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Reset dummy enmity command/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Reset dummy enmity command/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/akira0245/DalamudPlugins/raw/cn/plugins/Reset dummy enmity command/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1628750793"
+    }
