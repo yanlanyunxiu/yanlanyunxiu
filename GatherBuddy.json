@@ -8,7 +8,7 @@
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3
-    "DownloadLinkInstall": "https://github.com/yanlanyunxiu/yanlanyunxiu/blob/main/GatherBuddy-2.0.7.0.zip", 
+    "DownloadLinkInstall" : "https://github.com/yanlanyunxiu/yanlanyunxiu/blob/main/GatherBuddy-2.0.7.0.zip", 
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/yanlanyunxiu/yanlanyunxiu/blob/main/GatherBuddy-2.0.7.0.zip",
