@@ -1,4 +1,4 @@
-﻿{
+{
     "Author": "Ottermandias",
     "Name": "GatherBuddy",
     "Description": "Adds commands to simplify gathering by finding nodes and their locations via item name and a UI to keep track of special node uptimes.",
@@ -7,9 +7,9 @@
     "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 3
-  “DownloadLinkInstall” : "https://github.com/yanlanyunxiu/yanlanyunxiu/blob/main/GatherBuddy-2.0.7.0.zip", 
-  “IsHide": false,
-  “IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/yanlanyunxiu/yanlanyunxiu/blob/main/GatherBuddy-2.0.7.0.zip", 
+    "IsHide": false,
+    "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/yanlanyunxiu/yanlanyunxiu/blob/main/GatherBuddy-2.0.7.0.zip",
     "DownloadLinkUpdate": "https://github.com/yanlanyunxiu/yanlanyunxiu/blob/main/GatherBuddy-2.0.7.0.zip",
     "DownloadCount": 0,
